@@ -18,8 +18,6 @@ RUN \
     openssl
 
 
-
-
 RUN mkdir /unzip
 RUN mkdir /downloads
 RUN mkdir /transfers
